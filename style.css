@@ -1,0 +1,57 @@
+
+div#propos div{
+}
+div#option div{
+	display: inline-block;
+}
+div#fillieres div{
+	display: inline-block;
+	width: 48%;
+}
+div#content div{
+	display: inline-block;
+}
+div#content div.Rightbox{
+    vertical-align: top;
+}
+div#content div.Leftbox{
+	padding-right: 70px;
+}
+div#content div.Leftbox h2,p{
+	margin: 35px;
+}
+ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+ul li a{
+	color:white;
+	background-color:blue;
+	padding: 10px;
+	text-decoration: none;
+}
+ul li:hover a{
+	color: blue;
+	background-color:white;
+	transition: 0.3s all;
+}
+footer{
+	background-color: #000;
+}
+p, h2,
+{
+   color: #ffffff;
+}
+body{
+	background-color: #2D04FD;
+}
+h2{
+	background-color: #1D1376;
+	color: #ffffff;
+}
+h3{
+	color: #BAB8C8;
+}
+p{
+	color: white;
+}
